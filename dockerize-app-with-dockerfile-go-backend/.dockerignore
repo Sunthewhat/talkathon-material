@@ -1,0 +1,25 @@
+# Ignore git files
+.git
+.gitignore
+
+# Ignore documentation
+*.md
+README.md
+
+# Ignore IDE files
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries
+main
+*.exe
+
+# Ignore test files
+*_test.go
